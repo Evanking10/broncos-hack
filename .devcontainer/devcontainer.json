@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "evanking10-test1-codespace",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
